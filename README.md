@@ -15,7 +15,8 @@
 ### 🌐 Connect with Me
 
 - 📸 [Instagram](https://www.instagram.com/lalit_7588)
-- ✈️ [Telegram (Twitter)](https://twitter.com/SLALITKUMAR5?t=Zgoh4657QJkND9y4dpiG0Q&s=09)
+- ☁️ [Telegram](https://t.me/SLK7588)
+- 🔗 [X](https://twitter.com/SLALITKUMAR5?t=Zgoh4657QJkND9y4dpiG0Q&s=09)
 - 💼 [LinkedIn](https://www.linkedin.com/in/s-lalit-kumar-95ab87254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - ☁️ [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/14e30514-9e7c-4a64-9130-e481e553cc5e)
 
