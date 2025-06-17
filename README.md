@@ -14,7 +14,7 @@
 
 ### 🌐 Connect with Me
 
-- 📸 [Instagram](https://www.instagram.com/lalit_7588)
+- 📸 [Instagram](https://www.instagram.com/lalit_slk)
 - ☁️ [Telegram](https://t.me/SLK7588)
 - 🔗 [X](https://twitter.com/SLALITKUMAR5?t=Zgoh4657QJkND9y4dpiG0Q&s=09)
 - 💼 [LinkedIn](https://www.linkedin.com/in/s-lalit-kumar-95ab87254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
