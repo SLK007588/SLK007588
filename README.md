@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/SLK007588">
-    <img src="https://img.shields.io/github/followers/SLK007588?label=Followers&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/SLK007588?label=Followers&style=social" alt="=">
   </a>
   <a href="https://linkedin.com/in/s-lalit-kumar-95ab87254">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
