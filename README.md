@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lalit Kumar</h1>
 <h3 align="center">Aspiring AI Engineer | Machine Learning Enthusiast | Generative AI</h3>
-
-<p align="center">
-  <a href="https://github.com/SLK007588">
-    <img src="https://img.shields.io/github/followers/SLK007588?label=Followers&style=social" alt="=">
-  </a>
-  <a href="https://linkedin.com/in/s-lalit-kumar-95ab87254">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -119,18 +109,6 @@ Automation testing project using Selenium WebDriver.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SLK007588&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLK007588&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
@@ -145,4 +123,4 @@ Automation testing project using Selenium WebDriver.
 
 ---
 
-⭐ *“Building intelligent solutions through AI, automation, and creativity.”*
+
