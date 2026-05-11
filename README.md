@@ -1,58 +1,148 @@
-<h1 align="center">Hey there 👋, I'm Lalit!</h1>
-<h3 align="center">Aspiring Developer | Tech Enthusiast | Car Lover</h3>
+<h1 align="center">Hi 👋, I'm Lalit Kumar</h1>
+<h3 align="center">Aspiring AI Engineer | Machine Learning Enthusiast | Generative AI</h3>
+
+<p align="center">
+  <a href="https://github.com/SLK007588">
+    <img src="https://img.shields.io/github/followers/SLK007588?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://linkedin.com/in/s-lalit-kumar-95ab87254">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-- 🔭 I’m currently diving deep into the world of **programming and automation**
-- 🌱 Learning and exploring **Java, Python, Web Development, and Cloud Technologies**
-- 💡 Passionate about **cars, coding, and building cool projects**
-- 📈 Always looking to grow and contribute to open source
-
----
-
-### 🌐 Connect with Me
-
-- 📸 [Instagram](https://www.instagram.com/lalit_slk)
-- ☁️ [Telegram](https://t.me/SLK7588)
-- 🔗 [X](https://twitter.com/SLALITKUMAR5?t=Zgoh4657QJkND9y4dpiG0Q&s=09)
-- 💼 [LinkedIn](https://www.linkedin.com/in/s-lalit-kumar-95ab87254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- ☁️ [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/14e30514-9e7c-4a64-9130-e481e553cc5e)
+- 🎓 B.E. in Information Science & Engineering
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- ☁️ Oracle Cloud & AI Certified
+- 💡 Interested in Generative AI, Deep Learning, and Cloud Computing
+- 🌱 Currently improving my AI/ML and backend development skills
+- 🎯 Goal: Become an AI Engineer and build impactful AI applications
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🤖 AI / ML Libraries
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🌐 Web Technologies
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
-### 🚀 GitHub Stats
+# 🚀 Featured Projects
+
+## 🩺 Medicine Prescription Analysis with AI
+AI-powered application for analyzing handwritten medical prescriptions using CNNs and GPT-based extraction.
+
+### 🔹 Features
+- Handwritten prescription recognition
+- CNN implementation using PyTorch
+- GPT-based medicine & dosage extraction
+- Structured medical data generation
+
+### 🛠️ Tech Used
+`Python` `Flask` `PyTorch` `OpenAI GPT`
+
+---
+
+## 🎯 Focus AI – Chrome Productivity Extension
+AI-powered Chrome extension designed to improve productivity and reduce distractions.
+
+### 🔹 Features
+- Website blocker
+- Focus analytics dashboard
+- Ambient productivity music
+- AI-based focus tracking
+
+### 🛠️ Tech Used
+`JavaScript` `Chrome APIs`
+
+---
+
+## 🚗 Car Rental Web Application
+Full-stack vehicle booking and management platform.
+
+### 🔹 Features
+- User authentication
+- Vehicle reservation workflows
+- Admin management system
+- Database integration
+
+### 🛠️ Tech Used
+`PHP` `MySQL`
+
+---
+
+## 🤖 Automation Testing using Selenium
+Automation testing project using Selenium WebDriver.
+
+### 🔹 Features
+- Automated login & checkout flows
+- Browser automation testing
+- Workflow simulation
+
+### 🛠️ Tech Used
+`Java` `Selenium WebDriver`
+
+---
+
+# 📜 Certifications
+
+- ✅ Oracle Cloud Infrastructure Generative AI Professional
+- ✅ Oracle Cloud Infrastructure AI Foundations Associate
+- ✅ Oracle Cloud Infrastructure Developer Professional
+- ✅ Oracle Cloud Infrastructure DevOps Professional
+- ✅ IBM SkillsBuild AI Fundamentals
+- ✅ Google Cloud Skills Boost
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SLK007588&show_icons=true&theme=tokyonight" alt="SLK's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SLK007588&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLK007588&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🔧 Currently Working On
+# 🌐 Connect With Me
 
-- 🔬 Exploring **Web Automation using Selenium**
-- ☁️ Gaining hands-on experience with **Google Cloud Platform**
-- 🧠 Learning **Data Structures and Algorithms**
+<p align="left">
+<a href="https://linkedin.com/in/s-lalit-kumar-95ab87254" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://github.com/SLK007588" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-### 🏁 Fun Fact
-
-> I can talk about **cars** and **tech** all day! 🏎️💻
-
----
+⭐ *“Building intelligent solutions through AI, automation, and creativity.”*
