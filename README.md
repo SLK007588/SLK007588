@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lalit Kumar</h1>
 <h3 align="center">Aspiring AI Engineer | Machine Learning Enthusiast | Generative AI</h3>
----
 
 ## 🚀 About Me
 
